@@ -109,16 +109,4 @@ int main()
  
 }
  
-
-VOLUME
-Volume Home
-Problem Set
-Problem Category
-Problem Setters
-Submit Problem
-My Submissions
-Judge Status
-Ranklist
-User Statistics
-Compare User Statistics
  
